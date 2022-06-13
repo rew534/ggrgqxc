@@ -1,8 +1,8 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "uiyokjh",
+  "description": "yhftuk",
   "keywords": [
-    "随便"
+    "tuhtfgy"
   ],
   "env": {
     "PROTOCOL": {
@@ -11,7 +11,7 @@
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "6bca34a3-db18-4a52-ba9e-bfb48d900d48",
       "value": "",
       "required": false
     },
